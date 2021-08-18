@@ -1,0 +1,17 @@
+.container{
+    text-align: center;
+    margin-top: 3%;
+}
+.feild{
+    width: 75%;
+}
+.card{
+    margin:auto;
+    padding: 3% 0;
+    background-color: white;
+    width: 80%;
+
+}
+.button{
+    margin: 1%;
+}
